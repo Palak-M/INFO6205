@@ -1,7 +1,7 @@
 INFO-6205-Assignment-Questions
 
 **Assignment 1**
-[Find out if a Tree is Balanced](https://leetcode.com/problems/balanced-binary-tree/)
+[Find out if a Tree is Balanced](https://leetcode.com/problems/balanced-binary-tree/)<br/>
 [Find Minimum depth of all the leaves in a tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 [Print all the leaves of a tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)
 [Print sum of all the left leaves](https://leetcode.com/problems/sum-of-left-leaves/)
